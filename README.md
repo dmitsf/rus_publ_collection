@@ -1,3 +1,5 @@
+Collection contains about 207K docs.
+
 Usage:
 
 ```
