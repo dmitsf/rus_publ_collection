@@ -1,5 +1,8 @@
 Collection contains about 207K docs.
 
+https://yadi.sk/d/EFxZQi0M8Ys3dg  (~300MB)
+
+
 Usage:
 
 ```
